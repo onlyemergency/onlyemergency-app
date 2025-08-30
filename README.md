@@ -3,7 +3,7 @@
 *Decentralized Safety Platform | Building Trust in Crisis Response*  
 
 ## 📖 Overview  
-onlyemergency is a *decentralized safety and emergency response application* built to help individuals connect with the nearest *police stations, hospitals, fire departments, and other critical emergency services* — quickly and reliably.  
+OnlyEmergency is a *decentralized safety and emergency response application* built to help individuals connect with the nearest *police stations, hospitals, fire departments, and other critical emergency services* — quickly and reliably.  
 
 Our mission is clear:  
 *To democratize access to safety by reducing reliance on centralized systems and empowering communities with secure, real-time emergency support.*  
