@@ -1,4 +1,4 @@
-🚨 ONLYEMERGENCY 
+ ONLYEMERGENCY 
 
 *Decentralized Safety Platform | Building Trust in Crisis Response*  
 
