@@ -58,8 +58,7 @@ Distributed under the *MIT License*. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 📫 Contact email.
-bdmelodyrhymes@gmail.com
+## 📫 Contact email. onlyemergency247@gmail.com
 
 ---
 
