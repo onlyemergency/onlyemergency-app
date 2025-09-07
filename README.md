@@ -1,17 +1,3 @@
-
-
-
-## 🌍 Project Roadmap
-
-![Roadmap](roadmap.png)
-
-*Safety Without Borders*
-
-
-
-
-
-
 # 🚨 OnlyEmergency — Decentralized Safety Ecosystem
 
 **OnlyEmergency** is a **global safety and emergency response app** designed to save lives by connecting people to help — anytime, anywhere.  
