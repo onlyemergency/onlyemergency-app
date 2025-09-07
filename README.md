@@ -155,7 +155,7 @@ Together with the **UN, WHO, Red Cross, governments, and communities**, we can i
 
 ## 👤 Founder  
 
-**Kelubia Hope Sunday**  
+**Kelubia Hope**  
 📧 onlyemergency247@gmail.com  
 
 ---
