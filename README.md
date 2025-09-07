@@ -36,7 +36,8 @@ Only Emergency enhances global safety standards by integrating with **government
 ### 🔹 Phase 1: Setup & Foundation  
 - Initialize repository & folder structure  
 - Configure `.gitignore`, LICENSE (MIT), and README  
-- Add roadmap + setup instructions  
+- Add roadmap + setup instructions
+- 👉 Full technical feature list: [docs/features.js](docs/features.js)
 
 ---
 
