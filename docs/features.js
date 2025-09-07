@@ -90,4 +90,3 @@ const futureFixtures = [
   "Integration with Mesh Networks & Satellites",
   "Cybersecurity & Encrypted Communication Standards",
   "Decentralized Data Storage"
-];
