@@ -1,4 +1,3 @@
-  
 # 🚨 ONLYEMERGENCY – Safety Without Borders  
 
 ![Build Status](https://img.shields.io/badge/status-active-brightgreen) 
@@ -28,7 +27,7 @@ Inspired by:
 - **Uber** – real-time, on-demand response model  
 - **Crypto & Blockchain** – secure identity, payments & resilience  
 
-We aim to collaborate with the **United Nations (UN)**, **World Health Organization (WHO)**, **Red Cross**, and NGOs to make **safety a universal human right**.  
+We aim to collaborate with the **United Nations (UN)**, **World Health Organization (WHO)**, **Red Cross**, **Interpol**, and NGOs to make **safety a universal human right**.  
 
 ---
 
@@ -38,9 +37,9 @@ We aim to collaborate with the **United Nations (UN)**, **World Health Organizat
 - 🔴 **Live Scene Awareness** – trigger global map alerts with danger pings (even offline)  
 - 🤖 **AI Crisis Guidance** – real-time first aid, fire safety & mental health support  
 - 📡 **Offline Mode** – works even without internet connectivity  
-- 🔗 **Decentralized Safety Network** – powered by blockchain & community trust
+- 🔗 **Decentralized Safety Network** – powered by blockchain & community trust  
 
-- ---
+---
 
 ## ⭐ Groundbreaking Innovation: Live Scene – Trigger Awareness  
 
@@ -52,19 +51,43 @@ With **Trigger Awareness alerts**, users can:
 - Launch the **Google Global Map live scene board**, showing the user’s **current location** with a **danger ping** ⚠️  
 - Stay protected **even offline** → the system continues **monitoring the victim’s movement until rescue arrives**  
 
-This ensures **speed, visibility, and accountability** — protecting lives and empowering communities everywhere.  
-
 ✨ Our mission: **Safety Without Borders**  
- 
 
 ---
 
-## 🗺️ Roadmap – Milestones  
+## ⚡ Trigger Awareness – On & Off Control  
 
-- 🚀 **MVP Launch** → Core SOS + Locator  
-- 🤖 **AI Expansion** → Crisis guidance & offline tools  
-- 🤝 **Partnerships** → Governments, NGOs, UN adoption  
-- 🌐 **Global Rollout** → Borderless safety ecosystem  
+🌍 **WA-EBS™ – The World’s First Accountable Emergency Broadcast System 💡**  
+**WA-EBS™ – Global Trust. Local Action.**  
+
+How it works:  
+1. **Select Incident Type** → Choose robbery, accident, fire, disaster  
+2. **Click Trigger Awareness** → Google Live Board opens with real-time tracking like a stock/crypto live feed  
+3. **Global Visibility** → Location + danger ping sent to **all connected security agencies + global community feed**  
+4. **Turning Off** →  
+   - System asks for **reason form**  
+   - **Face authentication** video ensures user is safe & not under duress  
+   - If verified ✅ → system disconnects  
+   - If not ❌ → danger ping remains active until agencies confirm safety  
+
+✨ Accountability. Transparency. Trust.  
+**Safety Without Borders** 🚨  
+
+---
+
+## 🌍 WA-EBS™ – Future Global Standards  
+
+> ✨ “WA-EBS™ → From Innovation to International Standard” ✨  
+
+OnlyEmergency is positioning **WA-EBS™ (World’s First Accountable Emergency Broadcast System)**  
+as a **global safety protocol** to be adopted by:  
+- United Nations (UN) 🌍  
+- World Health Organization (WHO) 🏥  
+- Interpol & Law Enforcement 🚓  
+- Red Cross & Humanitarian NGOs ➕  
+- Governments worldwide 🏛️  
+
+✨ WA-EBS™ → building the **future of international safety accountability**.  
 
 ---
 
@@ -83,7 +106,7 @@ This ensures **speed, visibility, and accountability** — protecting lives and 
 ├── server.js # Entry file
 ├── README.md # Project overview
 └── LICENSE # MIT license
- 
+
 
 ---
 
@@ -118,3 +141,4 @@ Our mission: **Safety Without Borders.**
 👤 Founder: Kelubia Hope  
 📧 onlyemergency247@gmail.com  
 🌐 github.com/kelubiahope/decentralized-safety-app  
+
