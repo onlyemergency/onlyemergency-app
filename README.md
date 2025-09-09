@@ -35,38 +35,46 @@ We aim to collaborate with the **United Nations (UN)**, **World Health Organizat
 ---
 
 ## ⭐ Groundbreaking Innovation: Live Scene – Trigger Awareness  
+
+One of the **50 breakthrough features** that makes **ONLYEMERGENCY** stand out is the **Live Scene section**.  
+
 With **Trigger Awareness alerts**, users can:  
 - Select the **incident type** (robbery, accident, fire, disaster)  
-- Notify the **world & the right agencies** instantly  
-- Launch the **Google Global Map live board**, showing **danger pings** ⚠️  
-- Stay protected **even offline** → continuous monitoring until rescue  
+- Instantly notify the **world & agencies**  
+- Launch the **Google Live Board** — a real-time global dashboard that works like a **crypto/stock exchange board**, but for **safety alerts**  
+- See **danger pings 🔴**, **movement tracking**, and **continuous monitoring** until rescue  
 
 ✨ Our mission: **Safety Without Borders**  
 
+![Safety Dashboard](OnlyEmergency_SafetyDashboard_Poster.png)  
+
 ---
 
-## ⚡ WA-EBS™ – The World’s First Accountable Emergency Broadcast System  
+## ⚡ WA-EBS™ – World’s First Accountable Emergency Broadcast System  
+
 **WA-EBS™ – Global Trust. Local Action.**  
 
-- Real-time Trigger Awareness alerts with global broadcast  
-- Secure On/Off with form + Face ID verification  
-- Continuous monitoring until confirmed safe  
-- Transparency & accountability for agencies & communities  
+How it works:  
+1. **Select Incident Type** → Robbery, Accident, Fire, Disaster  
+2. **Trigger Awareness** → Google Live Board opens with real-time tracking  
+3. **Global Broadcast** → Alerts sent to all connected agencies & community feed  
+4. **Turning Off** → Requires reason + Face ID verification to ensure accountability  
 
 > ✨ “WA-EBS™ → From Innovation to International Standard” ✨  
 
 ---
 
 ## 🌍 Global Accessibility & Scalability  
+To ensure *OnlyEmergency* is accessible worldwide, we are building collaborations with:  
 - **Google Play Store (Android)** 📱  
 - **Apple App Store (iOS)** 🍎  
-- Other trusted platforms 🌐  
+- Other trusted distribution platforms 🌐  
 
-Updates will **reach every user worldwide**, ensuring everyone has access to:  
-- 🌍 Live Scene section with Google Live Board  
-- ⚡ Trigger Awareness alerts  
+Every update ensures users globally can access:  
+- 🌍 **Live Scene section with Google Live Board**  
+- ⚡ **Trigger Awareness alerts**  
 
-✨ OnlyEmergency = **global safety infrastructure**.  
+✨ OnlyEmergency is not just an app → it’s a **global safety infrastructure**.  
 
 ---
 
@@ -75,15 +83,22 @@ Updates will **reach every user worldwide**, ensuring everyone has access to:
 
 ---
 
+## 📈 Global Impact & Adoption  
+- **Governments** → stronger emergency response  
+- **NGOs & UN agencies** → faster humanitarian response  
+- **Communities** → crowdsource real-time reporting  
+- **Individuals** → one-tap peace of mind  
+
+---
+
 ## 👤 Founder  
 **Kelubia Hope** – Visionary Entrepreneur, Innovator & Founder of *ONLYEMERGENCY 🚨*  
-Recognized for **genius-level innovation** in decentralization, AI, and global safety design.  
-Dedicated to building **real-time monitoring solutions** that empower individuals and protect humanity.  
+Recognized for **genius-level innovation** in decentralization, AI, and global safety systems.  
 
 📄 [Download Founder & Vision One-Pager (PDF)](Founder_Vision_OnePager.pdf)  
 
-📧 Contact: *onlyemergency247@gmail.com*  
-🌐 GitHub: [OnlyEmergency Repository](https://github.com/kelubiahope/decentralized-safety-app)  
+📧 *onlyemergency247@gmail.com*  
+🌐 [GitHub Repository](https://github.com/kelubiahope/decentralized-safety-app)  
 
 ---
 
@@ -95,6 +110,7 @@ We invite **global partners, investors, and organizations** to join us in buildi
 ---
 
 ## 🚀 Quick Summary (Lite Version)  
+
 **ONLYEMERGENCY 🚨** – A decentralized global safety app with SOS alerts, emergency locators, AI guidance, offline resilience, and live scene awareness.  
 Our mission: **Safety Without Borders.**  
 
