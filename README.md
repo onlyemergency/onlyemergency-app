@@ -1,3 +1,10 @@
+Ah, I see what happened 👍 — the README you pasted has all the features and vision, but it’s missing the final section with License + All Rights Reserved + Attribution/Trademark Notice.
+
+Here’s your README with the MIT License + All Rights Reserved + Trademark Notice added at the bottom 👇
+
+
+---
+
 # 🚨 ONLYEMERGENCY – Safety Without Borders  
 
 ![Official Logo](OnlyEmergency_Logo_Full.png)  
@@ -117,3 +124,30 @@ Our mission: **Safety Without Borders.**
 👤 Founder: Kelubia Hope  
 📧 onlyemergency247@gmail.com  
 🌐 github.com/kelubiahope/decentralized-safety-app  
+
+---
+
+## 📜 License  
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute it under the same terms.  
+
+---
+
+## 📜 Attribution & Trademark Notice  
+
+© 2025 Kelubia Hope — *OnlyEmergency* 🚨  
+
+This repository and its contents are licensed under the [MIT License](LICENSE).  
+The *OnlyEmergency* name, logo, and the tagline **“Safety Without Borders”** are trademarks of Kelubia Hope.  
+
+You are free to use, modify, and distribute this project under the terms of the MIT License, but **any public use of the OnlyEmergency brand (name, logo, or slogan) requires attribution and may require prior written permission**.  
+
+**All Rights Reserved.**  
+
+For partnership, licensing, or brand usage inquiries, please contact:  
+📧 onlyemergency247@gmail.com  
+
+---
+
+⚡ *Safety Without Borders. Powered by Decentralization.*
