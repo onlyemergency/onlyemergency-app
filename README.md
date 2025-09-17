@@ -134,7 +134,7 @@ ONLYEMERGENCY is positioned for multiple world-firsts:
 2. First Global Safety Protocol (GSLB™)
 
 
-3. First app aligned with ISO 200 standards for global safety
+3. First app aligned with ISO 20022 standards for global safety
 
 
 4. First platform with 50+ integrated safety features
