@@ -85,11 +85,11 @@ Steps:
 
 ONLYEMERGENCY is designed to align with **international safety standards**:  
 
-- **ISO 200** – Safety Management Systems for emergency preparedness and risk control.  
+- **ISO 20022** – Safety Management Systems for emergency preparedness and risk control.  
 - **UN Sustainable Development Goals (SDGs)** – Peace, Justice, and Strong Institutions.  
 - **Pi Blockchain Security Frameworks** – decentralized trust protocols.  
 
-By adopting **ISO 200 standards**, ONLYEMERGENCY ensures **global interoperability**, allowing governments, NGOs, and emergency services to adopt this innovation as a **recognized safety protocol**.  
+By adopting **ISO 20022 standards**, ONLYEMERGENCY ensures **global interoperability**, allowing governments, NGOs, and emergency services to adopt this innovation as a **recognized safety protocol**.  
 
 ---
 
