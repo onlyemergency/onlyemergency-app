@@ -91,6 +91,19 @@ ONLYEMERGENCY is designed to align with **international safety standards**:
 
 By adopting **ISO 20022 standards**, ONLYEMERGENCY ensures **global interoperability**, allowing governments, NGOs, and emergency services to adopt this innovation as a **recognized safety protocol**.  
 
+...  
+## 🌍 Vision – Safety Without Borders
+Emergencies don’t respect borders...  
+
+---
+
+## 📜 Licensing
+This project is **dual-licensed**:  
+
+- [MIT License](./LICENSE) – for global open-source usage.  
+- [PiOS License v1.0.0](./PiOS-LICENSE.md) – for Pi Network ecosystem compliance.  
+
+© 2025 OnlyEmergency™ – Safety Without Borders
 ---
 
 ## 👨‍💻 Coding & Implementation Section  
