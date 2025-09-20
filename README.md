@@ -103,7 +103,7 @@ This project is **dual-licensed**:
 - [MIT License](./LICENSE) – for global open-source usage.  
 - [PiOS License v1.0.0](./PiOS-LICENSE.md) – for Pi Network ecosystem compliance.  
 
-© 2025 OnlyEmergency™ – Safety Without Borders
+© 2025 Kelubia Hope – Founder, OnlyEmergency™ – Safety Without Borders
 ---
 
 ## 👨‍💻 Coding & Implementation Section  
