@@ -3,7 +3,11 @@
  [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 [![PiOS Certified](https://img.shields.io/badge/PiOS%20Certified-v1.0.0-7b2ff7?style=for-the-badge&logo=pi&logoColor=white)](./PiOS-LICENSE.md)
 
-![Official Logo](OnlyEmergency_Logo_Full.png)  
+![Official Logo](OnlyEmergency_Logo_Full.png) 
+
+<p align="center">
+  <img src="./assets/PiOS_Certified_Badge_v1.0.0.png" width="450" alt="PiOS Certified – OnlyEmergency™ v1.0.0">
+</p>
 
 ![Build Status](https://img.shields.io/badge/status-active-brightgreen) 
 ![Vision](https://img.shields.io/badge/vision-global-blue) 
