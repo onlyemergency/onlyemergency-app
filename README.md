@@ -96,7 +96,7 @@ ONLYEMERGENCY is designed to align with **international safety standards**:
 
 - **ISO 20022** – Safety Management Systems for emergency preparedness and risk control.  
 - **UN Sustainable Development Goals (SDGs)** – Peace, Justice, and Strong Institutions.  
-- **Pi Blockchain Security Frameworks** – decentralized trust protocols.  
+- **Blockchain Security Frameworks** – decentralized trust protocols.  
 
 By adopting **ISO 20022 standards**, ONLYEMERGENCY ensures **global interoperability**, allowing governments, NGOs, and emergency services to adopt this innovation as a **recognized safety protocol**.  
 
@@ -179,7 +179,7 @@ Q1–Q4 2025 → Core dev, GSLB™ prototype, Pi Testnet launch.
 
 Q1–Q2 2026 → Partnerships with agencies, AI integration, multilingual rollout.
 
-Q3–Q4 2026 → Global scaling, ISO 200 certification, Guinness record submissions.
+Q3–Q4 2026 → Global scaling, ISO 20022 certification, Guinness record submissions.
 
 Q1–Q4 2027 → Full adoption push, UN/WHO/Interpol recognition, public standardization.
 
