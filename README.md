@@ -252,6 +252,7 @@ The OnlyEmergency name, logo, and tagline “Safety Without Borders™” and GS
 
 ⚡ Safety Without Borders. Powered by Decentralization.
 
+
 <hr style="border: 1px solid #0a0a0a; margin: 30px 0;">
 
 <p align="center">
