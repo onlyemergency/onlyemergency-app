@@ -253,12 +253,4 @@ The OnlyEmergency name, logo, and tagline “Safety Without Borders™” and GS
 ⚡ Safety Without Borders. Powered by Decentralization.
 
 
-<hr style="border: 1px solid #0a0a0a; margin: 30px 0;">
-
-<p align="center">
-  <b>© 2025 <a href="https://github.com/kelubiahope">Kelubia Hope</a> — Founder, <a href="https://github.com/onlyemergency-app">OnlyEmergency™</a></b>  
-  <br>
-  Safety Without Borders™ | All Rights Reserved  
-  <br><br>
-  <sub>PiOS Certified v1.0.0  •  MIT License  •  Global Safety Innovation Initiative</sub>
-</p>
+<hr style="border: 1px solid #1a1a1a; margin: 30px 0; box-shadow: 0 0 10px #007bff;">
