@@ -9,6 +9,8 @@
   <img src="./assets/PiOS_Certified_Badge_v1.0.0.png" width="450" alt="PiOS Certified – OnlyEmergency™ v1.0.0">
 </p>
 
+<hr style="border: 1px solid #0a0a0a; margin: 20px 0;">
+
 ![Build Status](https://img.shields.io/badge/status-active-brightgreen) 
 ![Vision](https://img.shields.io/badge/vision-global-blue) 
 ![Offline](https://img.shields.io/badge/offline-ready-red) 
