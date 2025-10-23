@@ -1,4 +1,8 @@
 # 🚨 ONLYEMERGENCY – Safety Without Borders™
+
+<p align="center">
+  <img src="./assets/PiOS_Certified_Badge.png" width="450" alt="PiOS Certified – OnlyEmergency™ v1.0.0">
+</p>
  
  [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 [![PiOS Certified](https://img.shields.io/badge/PiOS%20Certified-v1.0.0-7b2ff7?style=for-the-badge&logo=pi&logoColor=white)](./PiOS-LICENSE.md)
