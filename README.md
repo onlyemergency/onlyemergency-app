@@ -1,4 +1,4 @@
-# 🚨 ONLYEMERGENCY – Safety Without Borders™
+# 🚨 ONLYEMERGENCY Safety Without Borders™
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 [![PiOS Certified](https://img.shields.io/badge/PiOS%20Certified-v1.0.0-7b2ff7?style=for-the-badge&logo=pi&logoColor=white)](./PiOS-LICENSE.md)
